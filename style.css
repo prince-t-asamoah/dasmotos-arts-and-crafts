@@ -1,6 +1,9 @@
 body {
     font-family: Helvetica, sans-serif;
 }
+header {
+    background-image: url('./images/pattern.jpeg');
+}
 h1 {
     font-size: 100px;
     color: khaki;
@@ -14,4 +17,13 @@ strong {
 }
 h1, h2 {
     font-weight: bold;
+}
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+.frames h2 {
+    background-color: lightcoral;
+}
+.paint h2 {
+    background-color: skyblue;
 }
