@@ -28,3 +28,7 @@ h1, h2 {
 .paint h2 {
     background-color: skyblue;
 }
+.copyright p {
+    font-size: 14px;
+    text-align: center;
+}
